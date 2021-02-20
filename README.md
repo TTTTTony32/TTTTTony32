@@ -1,20 +1,8 @@
-### Hi there 👋
+### Hi, there is Tony32 👋
+<a>
+  <img align="center" src="https://github.com/NekoSilverFox/NekoSilverfox/blob/master/icons/wri.png"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&show_icons=true&theme=vue" />
 
-<!--
-**TTTTTony32/TTTTTony32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p>
 Tony是一名高中生<br>
 一名普通的学生<br>
 <br>
@@ -38,4 +26,3 @@ Tony是一名高中生<br>
 <br>
 想有朝一日也能变成大佬欸<br>
 继续加油吧！
-</p>
