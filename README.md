@@ -1,6 +1,11 @@
 ### Hi, there is Tony32 👋
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTTTTony32&show_icons=true&theme=vue" />
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=TTTTTony32&hide=contribs,issues&count_private=true&show_icons=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTTTTony32&show_icons=true&theme=vue" />
+
+
+<p>
 Tony是一名高中生<br>
 一名普通的学生<br>
 <br>
@@ -24,3 +29,4 @@ Tony是一名高中生<br>
 <br>
 想有朝一日也能变成大佬欸<br>
 继续加油吧！
+</p>
