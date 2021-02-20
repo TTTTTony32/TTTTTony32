@@ -1,7 +1,5 @@
 ### Hi, there is Tony32 👋
-<a>
-  <img align="center" src="https://github.com/NekoSilverFox/NekoSilverfox/blob/master/icons/wri.png"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSilverfox&show_icons=true&theme=vue" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTTTTony32&show_icons=true&theme=vue" />
 
 Tony是一名高中生<br>
 一名普通的学生<br>
